@@ -5,6 +5,9 @@
         <class>12</class>
         <city>Karachi</city>
         <country>Pakistan</country>
+        <address>
+            <houseNo>0123</houseNo>
+        </address>
     </detail>
 
     <detail id='2'>
@@ -13,6 +16,9 @@
         <class>8</class>
         <city>Lahore</city>
         <country>Pakistan</country>
+        <address>
+            <houseNo>456</houseNo>
+        </address>
     </detail>
 
     <detail id='3'>
@@ -21,5 +27,8 @@
         <class>6</class>
         <city>Islamabad</city>
         <country>Pakistan</country>
+        <address>
+            <houseNo>789</houseNo>
+        </address>
     </detail>
 </studentData>
