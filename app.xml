@@ -1,0 +1,25 @@
+<studentData>
+    <detail id='1'>
+        <name>Nabeel</name>
+        <age>26</age>
+        <class>12</class>
+        <city>Karachi</city>
+        <country>Pakistan</country>
+    </detail>
+
+    <detail id='2'>
+        <name>Usama</name>
+        <age>27</age>
+        <class>8</class>
+        <city>Lahore</city>
+        <country>Pakistan</country>
+    </detail>
+
+    <detail id='3'>
+        <name>Saad</name>
+        <age>30</age>
+        <class>6</class>
+        <city>Islamabad</city>
+        <country>Pakistan</country>
+    </detail>
+</studentData>
